@@ -1,4 +1,4 @@
 {"news":[
-  {"id":"welcome-1","title":"Добро пожаловать!","from":"Разработчик","coins":200,"text":"Спасибо, что играешь!"}
+  {"id":"welcome-1","title":"Добро пожаловать!","from":"Разработчик","coins":200,"text":"Спасибо, что играешь!"},
   {"id":"update-2","title":"Новая карта","from":"Разработчик","coins":100,"image":"https://raw.githubusercontent.com/antontarasov7237-crypto/hollowhunt-news/main/banner.png","text":"Вышла карта Свалка!"}
 ]}
